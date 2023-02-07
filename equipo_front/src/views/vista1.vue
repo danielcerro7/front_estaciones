@@ -7,7 +7,7 @@
     <img alt="Vue logo" src="../assets/estacion_ejemplo.jpg">
 
     <!-- ASÍ SE AGREGA UN COMPONENTE, EL msg ES LA INFORMACIÓN QUE LE ENVIAMOS AL COMPONENTE -->
-    <HelloWorld msg="ULTIMOS DATOS"/> 
+    <HelloWorld msg="ULTIMOS DATOS FE"/> 
   </div>
   <div class="table-responsive" >
     <table class="table table-primary">
