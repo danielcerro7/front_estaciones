@@ -7,7 +7,7 @@
     <img alt="Vue logo" src="../assets/estacion_ejemplo.jpg">
 
     <!-- ASÍ SE AGREGA UN COMPONENTE, EL msg ES LA INFORMACIÓN QUE LE ENVIAMOS AL COMPONENTE -->
-    <HelloWorld msg="ULTIMOS DATOS FE"/> 
+    <HelloWorld msg="ULTIMOS DATOS Y TABLAS HISTORICOS"/> 
   </div>
   <div class="table-responsive" >
     <table class="table table-primary">
@@ -21,7 +21,7 @@
       <!-- EL v-for NOS SIRVE PARA IMPRIMIR DE FORMA REACTIVA Y DINAMÍCA LOS DATOS QEU TENGAMOS, SERVIRÁ PARA QUE LAS TABLAS SEAN DINÁMICAS -->
         <tr v-for="(station, index) in STATIONS" :key="station.index">
             <td> {{ station.name }} </td>
-            <td> {{ station.last_feed.field1}} </td>
+            <td> {{ station.last_feed.field1}} grados ceentigrados </td>
             <td> {{ station.last_feed.field2}} </td>
             <td> {{ station.last_feed.field3}} </td>
             <td> {{ station.last_feed.field4}} </td>
