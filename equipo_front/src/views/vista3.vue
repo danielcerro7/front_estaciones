@@ -1,5 +1,8 @@
 <template>
 
+      <!-- ENCARGADOS VISTA 1:DANIEL, JOHN   -->
+
+
 <div class="historical">
     <HelloWorld msg="QUIENES SOMOS"/>
   </div>

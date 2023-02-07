@@ -1,4 +1,6 @@
 <template>
+    <!-- ENCARGADOS VISTA 1:SOFIA, ERIKA, ALEXANDRA   -->
+
   <div class="about">
     <HelloWorld msg="FICHA TECNICA"/>
   </div>
