@@ -1,5 +1,7 @@
 <template>
 
+  
+
   <!-- EN EL TEMPLATE SE AGREGA TODO EL CÓDIGO HTML CONTENIDO EN LAS ETIQUETAS <body></body> DE LA RESPECTIVA VISTA -->
 
   <div class="home">

@@ -3,6 +3,7 @@
 <div class="historical">
     <HelloWorld msg="QUIENES SOMOS"/>
   </div>
+
 </template>
 <script>
 import HelloWorld from '@/components/HelloWorld.vue';
