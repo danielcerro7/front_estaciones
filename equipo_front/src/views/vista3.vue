@@ -4,7 +4,7 @@
 
 
 <div class="historical">
-    <HelloWorld msg="QUIENES SOMOS"/>
+    <HelloWorld msg="QUIENES SOMOS- somos uis"/>
   </div>
 
 </template>
