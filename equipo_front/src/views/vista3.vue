@@ -12,7 +12,7 @@
 
 </head>
 <body>
-  <h3>Nuestra gente </h3>
+  <h3>Nuestra gente:</h3>
   <div class="container-card">
 	
   <div class="card">
