@@ -59,6 +59,9 @@
     </section>
 
     <footer>
+      <figure>
+      <img src="../assets/logo_peq.png">
+    </figure>
       <p>Estación Meteorológica UIS By Estudiantes UIS</p>
     </footer>
   </main>
@@ -141,7 +144,7 @@ ul li a:hover {
 
 footer {
   width: 100%;
-  height: 80px;
+  height: 150px;
   background: #314652;
   color: white;
   position: relative;
@@ -155,7 +158,7 @@ footer::before {
 }
 
 footer p {
-  padding: 30px;
+  padding: 10px;
 }
 .container-card{
 	width: 100%;
